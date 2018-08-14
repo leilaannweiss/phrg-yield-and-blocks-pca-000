@@ -294,4 +294,7 @@ You can read more about the `yield` keyword and blocks in Ruby from the resource
 * [Reactive's Tips](http://www.reactive.io/tips/) - [Understanding Ruby Blocks, Procs, and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas)
 * [Mix&Go](https://mixandgo.com/) - [Mastering-ruby-blocks-in-less-than-5-minutes](https://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-yield-and-blocks/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-yield-and-blocks/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Yield and Blocks</p>
